@@ -3,8 +3,6 @@ icons:
     id:         facebook
     unicode:    f000
     created:    1.0
-    aliases:
-      - fb
     filter:
       - social network
     categories:
@@ -14,8 +12,6 @@ icons:
     id:         facebook-f
     unicode:    f001
     created:    1.0
-    aliases:
-      - fb-f
     filter:
       - social network
     categories:
@@ -25,8 +21,6 @@ icons:
     id:         twitter
     unicode:    f002
     created:    1.0
-    aliases:
-      - tw
     filter:
       - tweet
       - social network
@@ -37,8 +31,6 @@ icons:
     id:         linkedin
     unicode:    f003
     created:    1.0
-    aliases:
-      - lin
     categories:
       - Brand Icons
 
@@ -46,8 +38,6 @@ icons:
     id:         linkedin-in
     unicode:    f004
     created:    1.0
-    aliases:
-      - lin-in
     categories:
       - Brand Icons
 
@@ -55,8 +45,7 @@ icons:
     id:         instagram
     unicode:    f005
     created:    1.0
-    aliases:
-      - ig
+
     categories:
       - Brand Icons
 
@@ -82,8 +71,6 @@ icons:
     id:         googleplus
     unicode:    f008
     created:    1.0
-    aliases:
-      - gp
     filter:
       - social network
     categories:
@@ -93,8 +80,6 @@ icons:
     id:         googleplus-g
     unicode:    f009
     created:    1.0
-    aliases:
-      - gp-g
     filter:
       - social network
     categories:
@@ -104,8 +89,6 @@ icons:
     id:         pinterest
     unicode:    f00a
     created:    1.0
-    aliases:
-      - pnt
     categories:
       - Brand Icons
 
@@ -113,8 +96,6 @@ icons:
     id:         pinterest-p
     unicode:    f00b
     created:    1.0
-    aliases:
-      - pnt-p
     categories:
       - Brand Icons
 
@@ -122,8 +103,6 @@ icons:
     id:         tumblr
     unicode:    f00c
     created:    1.0
-    aliases:
-      - tmb
     categories:
       - Brand Icons
 
@@ -131,8 +110,7 @@ icons:
     id:         tumblr-t
     unicode:    f00d
     created:    1.0
-    aliases:
-      - tmb-t
+
     categories:
       - Brand Icons
 
@@ -392,8 +370,6 @@ icons:
     id:         google
     unicode:    f030
     created:    1.0
-    aliases:
-      - gg
     categories:
       - Brand Icons
 
@@ -401,8 +377,6 @@ icons:
     id:         google-g
     unicode:    f031
     created:    1.0
-    aliases:
-      - gg-g
     categories:
       - Brand Icons
 
@@ -424,8 +398,6 @@ icons:
     id:         delicious
     unicode:    f034
     created:    1.0
-    aliases:
-      - dc
     categories:
       - Brand Icons
 
@@ -433,8 +405,6 @@ icons:
     id:         digg
     unicode:    f035
     created:    1.0
-    aliases:
-      - dg
     categories:
       - Brand Icons
 
@@ -536,8 +506,6 @@ icons:
     id:         rebel
     unicode:    f044
     created:    1.0
-    aliases:
-      - ra
     categories:
       - Brand Icons
 
@@ -545,8 +513,6 @@ icons:
     id:         empire
     unicode:    f045
     created:    1.0
-    aliases:
-      - ge
     categories:
       - Brand Icons
 

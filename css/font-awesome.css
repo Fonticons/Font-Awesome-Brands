@@ -6,7 +6,8 @@
  * -------------------------- */
 @font-face {
   font-family: 'FontAwesome';
-  src: url('../fonts/FontAwesome-Brands.otf') format('opentype');
+  src: url('../fonts/fontawesomebrands-regular-webfont.eot?v=1.0.0');
+  src: url('../fonts/fontawesomebrands-regular-webfont.eot?#iefix&v=1.0.0') format('embedded-opentype'), url('../fonts/fontawesomebrands-regular-webfont.woff2?v=1.0.0') format('woff2'), url('../fonts/fontawesomebrands-regular-webfont.woff?v=1.0.0') format('woff'), url('../fonts/fontawesomebrands-regular-webfont.ttf?v=1.0.0') format('truetype'), url('../fonts/fontawesomebrands-regular-webfont.svg?v=1.0.0#fontawesomeregular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -167,27 +168,21 @@
 }
 /* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
    readers do not read off random characters that represent icons */
-.fa-fb:before,
 .fa-facebook:before {
   content: "\f000";
 }
-.fa-fb-f:before,
 .fa-facebook-f:before {
   content: "\f001";
 }
-.fa-tw:before,
 .fa-twitter:before {
   content: "\f002";
 }
-.fa-lin:before,
 .fa-linkedin:before {
   content: "\f003";
 }
-.fa-lin-in:before,
 .fa-linkedin-in:before {
   content: "\f004";
 }
-.fa-ig:before,
 .fa-instagram:before {
   content: "\f005";
 }
@@ -197,27 +192,21 @@
 .fa-github-octocat:before {
   content: "\f007";
 }
-.fa-gp:before,
 .fa-googleplus:before {
   content: "\f008";
 }
-.fa-gp-g:before,
 .fa-googleplus-g:before {
   content: "\f009";
 }
-.fa-pnt:before,
 .fa-pinterest:before {
   content: "\f00a";
 }
-.fa-pnt-p:before,
 .fa-pinterest-p:before {
   content: "\f00b";
 }
-.fa-tmb:before,
 .fa-tumblr:before {
   content: "\f00c";
 }
-.fa-tmb-t:before,
 .fa-tumblr-t:before {
   content: "\f00d";
 }
@@ -315,11 +304,9 @@
 .fa-reddit:before {
   content: "\f02f";
 }
-.fa-gg:before,
 .fa-google:before {
   content: "\f030";
 }
-.fa-gg-g:before,
 .fa-google-g:before {
   content: "\f031";
 }
@@ -329,11 +316,9 @@
 .fa-stumbleupon-su:before {
   content: "\f033";
 }
-.fa-dc:before,
 .fa-delicious:before {
   content: "\f034";
 }
-.fa-dg:before,
 .fa-digg:before {
   content: "\f035";
 }
@@ -376,11 +361,9 @@
 .fa-jsfiddle:before {
   content: "\f043";
 }
-.fa-ra:before,
 .fa-rebel:before {
   content: "\f044";
 }
-.fa-ge:before,
 .fa-empire:before {
   content: "\f045";
 }
@@ -481,10 +464,10 @@
   content: "\f06a";
 }
 .fa-viacoin:before {
-  content: "\f06b";
+  content: "\f06c";
 }
 .fa-viacoin:before {
-  content: "\f06b";
+  content: "\f06c";
 }
 .fa-queue:before {
   content: "\f06d";
