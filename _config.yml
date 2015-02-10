@@ -1,0 +1,56 @@
+safe:             false
+port:             7997
+baseurl:          /Font-Awesome-Brands/  # Where GitHub serves the project up from
+url:              http://localhost:7997
+
+source:           src
+destination:      _gh_pages
+plugins:          src/_plugins
+
+pygments:         true
+permalink:        pretty
+
+# ensures SCSS files are compiled
+include:          [_*.scss]
+
+# used in building icon pages
+icon_meta:        src/icons.yml
+icon_layout:      icon.html    # Relative to _layouts directory
+icon_destination: icon         # Relative to destination
+
+fontawesome:
+  version:        1.0.0
+  minor_version:  1.0
+  doc_blob:       v1.0.0
+  url:            http://brands.fontawesome.io
+  legacy_url:     http://fonticons.github.com/Font-Awesome-Brands/
+  blog_url:       http://blog.fontawesome.io
+  twitter:        fontawesome
+  tagline:        Just the Brands, ma'am.
+  css_prefix:     fa
+  author:
+    name:         Dave Gandy
+    email:        dave@fontawesome.io
+    twitter:      davegandy
+    github:       davegandy
+  github:
+    url:          https://github.com/fonticons/Font-Awesome-Brands
+    project:      Font-Awesome-Brands
+    org:          Fonticons
+  license:
+    font:
+      version:      SIL OFL 1.1
+      url:          http://scripts.sil.org/OFL
+    code:
+      version:      MIT License
+      url:          http://opensource.org/licenses/mit-license.html
+    documentation:
+      version:      CC BY 3.0
+      url:          http://creativecommons.org/licenses/by/3.0/
+
+bootstrap:
+  version:        3.2.0
+  url:            http://getbootstrap.com
+
+jquery:
+  version:        1.11.1

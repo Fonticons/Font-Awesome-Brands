@@ -1,0 +1,914 @@
+icons:
+  - name:       Facebook
+    id:         facebook
+    unicode:    f000
+    created:    1.0
+    aliases:
+      - fb
+    filter:
+      - social network
+    categories:
+      - Brand Icons
+
+  - name:       Facebook F
+    id:         facebook-f
+    unicode:    f001
+    created:    1.0
+    aliases:
+      - fb-f
+    filter:
+      - social network
+    categories:
+      - Brand Icons
+
+  - name:       Twitter
+    id:         twitter
+    unicode:    f002
+    created:    1.0
+    aliases:
+      - tw
+    filter:
+      - tweet
+      - social network
+    categories:
+      - Brand Icons
+
+  - name:       LinkedIn
+    id:         linkedin
+    unicode:    f003
+    created:    1.0
+    aliases:
+      - lin
+    categories:
+      - Brand Icons
+
+  - name:       LinkedIn in
+    id:         linkedin-in
+    unicode:    f004
+    created:    1.0
+    aliases:
+      - lin-in
+    categories:
+      - Brand Icons
+
+  - name:       Instagram
+    id:         instagram
+    unicode:    f005
+    created:    1.0
+    aliases:
+      - ig
+    categories:
+      - Brand Icons
+
+  - name:       GitHub
+    id:         github
+    unicode:    f006
+    created:    1.0
+    filter:
+      - octocat
+    categories:
+      - Brand Icons
+
+  - name:       GitHub Octocat
+    id:         github-octocat
+    unicode:    f007
+    created:    1.0
+    filter:
+      - octocat
+    categories:
+      - Brand Icons
+
+  - name:       Google Plus
+    id:         googleplus
+    unicode:    f008
+    created:    1.0
+    aliases:
+      - gp
+    filter:
+      - social network
+    categories:
+      - Brand Icons
+
+  - name:       Google Plus g
+    id:         googleplus-g
+    unicode:    f009
+    created:    1.0
+    aliases:
+      - gp-g
+    filter:
+      - social network
+    categories:
+      - Brand Icons
+
+  - name:       Pinterest
+    id:         pinterest
+    unicode:    f00a
+    created:    1.0
+    aliases:
+      - pnt
+    categories:
+      - Brand Icons
+
+  - name:       Pinterest p
+    id:         pinterest-p
+    unicode:    f00b
+    created:    1.0
+    aliases:
+      - pnt-p
+    categories:
+      - Brand Icons
+
+  - name:       Tumblr
+    id:         tumblr
+    unicode:    f00c
+    created:    1.0
+    aliases:
+      - tmb
+    categories:
+      - Brand Icons
+
+  - name:       Tumblr t
+    id:         tumblr-t
+    unicode:    f00d
+    created:    1.0
+    aliases:
+      - tmb-t
+    categories:
+      - Brand Icons
+
+  - name:       Fonticons
+    id:         fonticons
+    unicode:    f00e
+    created:    1.0
+    url:        fonticons.com
+    categories:
+      - Brand Icons
+
+
+
+  - name:       Bitcoin
+    id:         bitcoin
+    unicode:    f010
+    created:    1.0
+    categories:
+      - Currency Icons
+      - Brand Icons
+
+  - name:       Bitcoin b
+    id:         bitcoin-b
+    unicode:    f011
+    created:    1.0
+    categories:
+      - Currency Icons
+      - Brand Icons
+
+  - name:       Dropbox
+    id:         dropbox
+    unicode:    f012
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Stack Exchange
+    id:         stackexchange
+    unicode:    f013
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Stack Overflow
+    id:         stackoverflow
+    unicode:    f014
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Flickr
+    id:         flickr
+    unicode:    f015
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Flickr Dots
+    id:         flickr-dots
+    unicode:    f016
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Bitbucket
+    id:         bitbucket
+    unicode:    f017
+    created:    1.0
+    filter:
+        - git
+    categories:
+      - Brand Icons
+
+  - name:       HTML 5
+    id:         html5
+    unicode:    f018
+    created:    1.0
+    code:
+      - code
+      - html5
+    categories:
+      - Brand Icons
+
+  - name:       CSS 3
+    id:         css3
+    unicode:    f019
+    created:    1.0
+    filter:
+      - code
+    categories:
+      - Brand Icons
+
+  - name:       Apple
+    id:         apple
+    unicode:    f01a
+    created:    1.0
+    filter:
+      - osx
+    categories:
+      - Brand Icons
+
+  - name:       Windows
+    id:         windows
+    unicode:    f01b
+    created:    1.0
+      - microsoft
+    categories:
+      - Brand Icons
+
+  - name:       Android
+    id:         android
+    unicode:    f01c
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Linux
+    id:         linux
+    unicode:    f01d
+    created:    1.0
+    filter:
+      - tux
+    categories:
+      - Brand Icons
+
+  - name:       Dribbble
+    id:         dribbble
+    unicode:    f01e
+    created:    1.0
+    categories:
+      - Brand Icons
+
+
+
+
+  - name:       YouTube
+    id:         youtube
+    unicode:    f021
+    created:    1.0
+    filter:
+      - start
+      - playing
+      - video
+      - film
+    categories:
+      - Brand Icons
+
+  - name:       Skype
+    id:         skype
+    unicode:    f022
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Foursquare
+    id:         foursquare
+    unicode:    f023
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Trello
+    id:         trello
+    unicode:    f024
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       MaxCDN
+    id:         maxcdn
+    unicode:    f025
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Gratipay (Gittip)
+    id:         gratipay
+    unicode:    f026
+    created:    1.0
+    aliases:
+      - gittip
+    filter:
+      - heart
+      - like
+      - favorite
+      - love
+    categories:
+      - Brand Icons
+
+  - name:       Vimeo
+    id:         vimeo
+    unicode:    f027
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Vimeo v
+    id:         vimeo-v
+    unicode:    f028
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Slack
+    id:         slack
+    unicode:    f029
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Wordpress
+    id:         wordpress
+    unicode:    f02a
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Wordpress Alt
+    id:         wordpress-alt
+    unicode:    f02b
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       OpenID
+    id:         openid
+    unicode:    f02c
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Yahoo
+    id:         yahoo
+    unicode:    f02d
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Yahoo Y
+    id:         yahoo-y
+    unicode:    f02e
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       reddit
+    id:         reddit
+    unicode:    f02f
+    created:    1.0
+    categories:
+      - Brand Icons
+
+
+
+
+  - name:       Google
+    id:         google
+    unicode:    f030
+    created:    1.0
+    aliases:
+      - gg
+    categories:
+      - Brand Icons
+
+  - name:       Google g
+    id:         google-g
+    unicode:    f031
+    created:    1.0
+    aliases:
+      - gg-g
+    categories:
+      - Brand Icons
+
+  - name:       StumbleUpon
+    id:         stumbleupon
+    unicode:    f032
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       StumbleUpon su
+    id:         stumbleupon-su
+    unicode:    f033
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Delicious
+    id:         delicious
+    unicode:    f034
+    created:    1.0
+    aliases:
+      - dc
+    categories:
+      - Brand Icons
+
+  - name:       Digg
+    id:         digg
+    unicode:    f035
+    created:    1.0
+    aliases:
+      - dg
+    categories:
+      - Brand Icons
+
+  - name:       Pied Piper
+    id:         piedpiper
+    unicode:    f036
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Pied Piper OG
+    id:         piedpiper-alt
+    unicode:    f037
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Drupal
+    id:         drupal
+    unicode:    f038
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Joomla
+    id:         joomla
+    unicode:    f039
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Behance
+    id:         behance
+    unicode:    f03a
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Steam
+    id:         steam
+    unicode:    f03b
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Steam Arm
+    id:         steam-arm
+    unicode:    f03c
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Spotify
+    id:         spotify
+    unicode:    f03d
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       deviantART
+    id:         deviantart
+    unicode:    f03e
+    created:    1.0
+    categories:
+      - Brand Icons
+
+
+
+
+  - name:       SoundCloud
+    id:         soundcloud
+    unicode:    f040
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Vine
+    id:         vine
+    unicode:    f041
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Codepen
+    id:         codepen
+    unicode:    f042
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       jsFiddle
+    id:         jsfiddle
+    unicode:    f043
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Rebel Alliance
+    id:         rebel
+    unicode:    f044
+    created:    1.0
+    aliases:
+      - ra
+    categories:
+      - Brand Icons
+
+  - name:       Galactic Empire
+    id:         empire
+    unicode:    f045
+    created:    1.0
+    aliases:
+      - ge
+    categories:
+      - Brand Icons
+
+  - name:       Git
+    id:         git
+    unicode:    f046
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Hacker News
+    id:         hackernews
+    unicode:    f047
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Hacker News Y
+    id:         hackernews-y
+    unicode:    f048
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Slideshare
+    id:         slideshare
+    unicode:    f049
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Twitch
+    id:         twitch
+    unicode:    f04a
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Yelp
+    id:         yelp
+    unicode:    f04b
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Paypal
+    id:         paypal
+    unicode:    f04c
+    created:    1.0
+    categories:
+      - Brand Icons
+      - Payment Icons
+
+  - name:       Goole Wallet
+    id:         google-wallet
+    unicode:    f04d
+    created:    1.0
+    categories:
+      - Brand Icons
+      - Payment Icons
+
+  - name:       AngelList
+    id:         angellist
+    unicode:    f04e
+    created:    1.0
+    categories:
+      - Brand Icons
+
+
+
+
+  - name:       Visa Credit Card
+    id:         cc-visa
+    unicode:    f050
+    created:    1.0
+    categories:
+      - Brand Icons
+      - Payment Icons
+
+  - name:       MasterCard Credit Card
+    id:         cc-mastercard
+    unicode:    f051
+    created:    1.0
+    categories:
+      - Brand Icons
+      - Payment Icons
+
+  - name:       Discover Credit Card
+    id:         cc-discover
+    unicode:    f052
+    created:    1.0
+    categories:
+      - Brand Icons
+      - Payment Icons
+
+  - name:       American Express Credit Card
+    id:         cc-amex
+    unicode:    f053
+    created:    1.0
+    categories:
+      - Brand Icons
+      - Payment Icons
+
+  - name:       Paypal Credit Card
+    id:         cc-paypal
+    unicode:    f054
+    created:    1.0
+    categories:
+      - Brand Icons
+      - Payment Icons
+
+  - name:       Stripe Credit Card
+    id:         cc-stripe
+    unicode:    f055
+    created:    1.0
+    categories:
+      - Brand Icons
+      - Payment Icons
+
+  - name:       last.fm
+    id:         lastfm
+    unicode:    f056
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       What's App
+    id:         whatsapp
+    unicode:    f057
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Medium
+    id:         medium
+    unicode:    f058
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       meanpath
+    id:         meanpath
+    unicode:    f059
+    created:    1.0
+    url:        meanpath.com
+    categories:
+      - Brand Icons
+
+  - name:       meanpath mp
+    id:         meanpath-mp
+    unicode:    f05a
+    created:    1.0
+    url:        meanpath.com
+    categories:
+      - Brand Icons
+
+  - name:       Pagelines
+    id:         pagelines
+    unicode:    f05b
+    created:    1.0
+    filter:
+      - leaf
+      - leaves
+      - tree
+      - plant
+      - eco
+      - nature
+    categories:
+      - Brand Icons
+
+
+
+
+  - name:       ioxhost
+    id:         ioxhost
+    unicode:    f060
+    created:    1.0
+    url:        ioxhost.co.uk
+    categories:
+      - Brand Icons
+
+  - name:       BuySellAds
+    id:         buysellads
+    unicode:    f061
+    created:    1.0
+    url:        buysellads.com
+    categories:
+      - Brand Icons
+
+  - name:       BuySellAds A
+    id:         buysellads-a
+    unicode:    f062
+    created:    1.0
+    url:        buysellads.com
+    categories:
+      - Brand Icons
+
+  - name:       Connect Develop
+    id:         connectdevelop
+    unicode:    f063
+    created:    1.0
+    url:        connectdevelop.com
+    categories:
+      - Brand Icons
+
+  - name:       DashCube
+    id:         dashcube
+    unicode:    f064
+    created:    1.0
+    url:        dashcube.com
+    categories:
+      - Brand Icons
+
+  - name:       Forumbee
+    id:         forumbee
+    unicode:    f065
+    created:    1.0
+    url:        forumbee.com
+    categories:
+      - Brand Icons
+
+  - name:       Leanpub
+    id:         leanpub
+    unicode:    f066
+    created:    1.0
+    url:        leanpub.com
+    categories:
+      - Brand Icons
+
+  - name:       Sellsy
+    id:         sellsy
+    unicode:    f067
+    created:    1.0
+    url:        sellsy.com
+    categories:
+      - Brand Icons
+
+  - name:       Shirts in Bulk
+    id:         shirtsinbulk
+    unicode:    f068
+    created:    1.0
+    url:        shirtsinbulk.com
+    categories:
+      - Brand Icons
+
+  - name:       SimplyBuilt
+    id:         simplybuilt
+    unicode:    f069
+    created:    1.0
+    url:        simplybuilt.com
+    categories:
+      - Brand Icons
+
+  - name:       skyatlas
+    id:         skyatlas
+    unicode:    f06a
+    created:    1.0
+    url:        skyatlas.com
+    categories:
+      - Brand Icons
+
+  - name:       Viacoin
+    id:         viacoin
+    unicode:    f06b
+    created:    1.0
+    url:        viacoin.org
+    categories:
+      - Brand Icons
+
+  - name:       Codiepie
+    id:         viacoin
+    unicode:    f06c
+    created:    1.0
+    url:        codiepie.com
+    categories:
+      - Brand Icons
+
+  - name:       Queue App
+    id:         queue
+    unicode:    f06d
+    created:    1.0
+    url:        queueapp.com
+    categories:
+      - Brand Icons
+
+  - name:       Queue App Q
+    id:         queue-q
+    unicode:    f06e
+    created:    1.0
+    url:        queueapp.com
+    categories:
+      - Brand Icons
+
+
+
+
+  - name:       Black Tie
+    id:         black-tie
+    unicode:    f070
+    created:    1.0
+    url:        blacktie.io
+    categories:
+      - Brand Icons
+
+  - name:       Black Tie Alt
+    id:         black-tie-alt
+    unicode:    f071
+    created:    1.0
+    url:        blacktie.io
+    categories:
+      - Brand Icons
+
+
+
+
+  - name:       Xing
+    id:         xing
+    unicode:    f090
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       VK
+    id:         vk
+    unicode:    f091
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Weibo
+    id:         weibo
+    unicode:    f092
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Renren
+    id:         renren
+    unicode:    f093
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Tencent Weibo
+    id:         tencent-weibo
+    unicode:    f094
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       QQ
+    id:         qq
+    unicode:    f095
+    created:    1.0
+    categories:
+      - Brand Icons
+
+  - name:       Weixin (WeChat)
+    id:         weixin
+    unicode:    f096
+    created:    1.0
+    aliases:
+      - wechat
+    categories:
+      - Brand Icons
