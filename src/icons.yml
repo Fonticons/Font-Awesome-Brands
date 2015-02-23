@@ -114,14 +114,6 @@ icons:
     categories:
       - Brand Icons
 
-  - name:       Fonticons
-    id:         fonticons
-    unicode:    f00e
-    created:    1.0
-    url:        fonticons.com
-    categories:
-      - Brand Icons
-
 
 
   - name:       Bitcoin
@@ -783,7 +775,7 @@ icons:
       - Brand Icons
 
   - name:       Codiepie
-    id:         viacoin
+    id:         codiepie
     unicode:    f06c
     created:    1.0
     url:        codiepie.com
@@ -809,17 +801,33 @@ icons:
 
 
 
-  - name:       Black Tie
-    id:         black-tie
+  - name:       Fonticons
+    id:         fonticons
     unicode:    f070
+    created:    1.0
+    url:        fonticons.com
+    categories:
+      - Brand Icons
+
+  - name:       Fonticons Alt
+    id:         fonticons-alt
+    unicode:    f071
+    created:    1.0
+    url:        fonticons.com
+    categories:
+      - Brand Icons
+
+  - name:       Black Tie
+    id:         blacktie
+    unicode:    f072
     created:    1.0
     url:        blacktie.io
     categories:
       - Brand Icons
 
   - name:       Black Tie Alt
-    id:         black-tie-alt
-    unicode:    f071
+    id:         blacktie-alt
+    unicode:    f073
     created:    1.0
     url:        blacktie.io
     categories:

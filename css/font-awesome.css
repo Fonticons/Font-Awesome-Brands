@@ -5,15 +5,14 @@
 /* FONT PATH
  * -------------------------- */
 @font-face {
-  font-family: 'FontAwesome';
-  src: url('../fonts/fontawesomebrands-regular-webfont.eot?v=1.0.0');
-  src: url('../fonts/fontawesomebrands-regular-webfont.eot?#iefix&v=1.0.0') format('embedded-opentype'), url('../fonts/fontawesomebrands-regular-webfont.woff2?v=1.0.0') format('woff2'), url('../fonts/fontawesomebrands-regular-webfont.woff?v=1.0.0') format('woff'), url('../fonts/fontawesomebrands-regular-webfont.ttf?v=1.0.0') format('truetype'), url('../fonts/fontawesomebrands-regular-webfont.svg?v=1.0.0#fontawesomeregular') format('svg');
+  font-family: 'Font Awesome Brands';
+  src: url('../fonts/FontAwesomeBrands-Regular.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
 .fa {
   display: inline-block;
-  font: normal normal normal 14px/1 FontAwesome;
+  font: normal normal normal 14px/1 "Font Awesome Brands";
   font-size: inherit;
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;
@@ -209,9 +208,6 @@
 }
 .fa-tumblr-t:before {
   content: "\f00d";
-}
-.fa-fonticons:before {
-  content: "\f00e";
 }
 .fa-bitcoin:before {
   content: "\f010";
@@ -464,9 +460,9 @@
   content: "\f06a";
 }
 .fa-viacoin:before {
-  content: "\f06c";
+  content: "\f06b";
 }
-.fa-viacoin:before {
+.fa-codiepie:before {
   content: "\f06c";
 }
 .fa-queue:before {
@@ -475,11 +471,17 @@
 .fa-queue-q:before {
   content: "\f06e";
 }
-.fa-black-tie:before {
+.fa-fonticons:before {
   content: "\f070";
 }
-.fa-black-tie-alt:before {
+.fa-fonticons-alt:before {
   content: "\f071";
+}
+.fa-blacktie:before {
+  content: "\f072";
+}
+.fa-blacktie-alt:before {
+  content: "\f073";
 }
 .fa-xing:before {
   content: "\f090";
