@@ -8,8 +8,8 @@ icons:
     categories:
       - Brand Icons
 
-  - name:       Facebook F
-    id:         facebook-f
+  - name:       Facebook Alt
+    id:         facebook-alt
     unicode:    f001
     created:    1.0
     filter:
@@ -34,8 +34,8 @@ icons:
     categories:
       - Brand Icons
 
-  - name:       LinkedIn in
-    id:         linkedin-in
+  - name:       LinkedIn Alt
+    id:         linkedin-alt
     unicode:    f004
     created:    1.0
     categories:
@@ -58,8 +58,8 @@ icons:
     categories:
       - Brand Icons
 
-  - name:       GitHub Octocat
-    id:         github-octocat
+  - name:       GitHub Alt
+    id:         github-alt
     unicode:    f007
     created:    1.0
     filter:
@@ -76,8 +76,8 @@ icons:
     categories:
       - Brand Icons
 
-  - name:       Google Plus g
-    id:         googleplus-g
+  - name:       Google Plus Alt
+    id:         googleplus-alt
     unicode:    f009
     created:    1.0
     filter:
@@ -92,8 +92,8 @@ icons:
     categories:
       - Brand Icons
 
-  - name:       Pinterest p
-    id:         pinterest-p
+  - name:       Pinterest Alt
+    id:         pinterest-alt
     unicode:    f00b
     created:    1.0
     categories:
@@ -106,8 +106,8 @@ icons:
     categories:
       - Brand Icons
 
-  - name:       Tumblr t
-    id:         tumblr-t
+  - name:       Tumblr Alt
+    id:         tumblr-alt
     unicode:    f00d
     created:    1.0
 
@@ -124,8 +124,8 @@ icons:
       - Currency Icons
       - Brand Icons
 
-  - name:       Bitcoin b
-    id:         bitcoin-b
+  - name:       Bitcoin Alt
+    id:         bitcoin-alt
     unicode:    f011
     created:    1.0
     categories:
@@ -160,8 +160,8 @@ icons:
     categories:
       - Brand Icons
 
-  - name:       Flickr Dots
-    id:         flickr-dots
+  - name:       Flickr Alt
+    id:         flickr-alt
     unicode:    f016
     created:    1.0
     categories:
@@ -299,8 +299,8 @@ icons:
     categories:
       - Brand Icons
 
-  - name:       Vimeo v
-    id:         vimeo-v
+  - name:       Vimeo Alt
+    id:         vimeo-alt
     unicode:    f028
     created:    1.0
     categories:
@@ -341,8 +341,8 @@ icons:
     categories:
       - Brand Icons
 
-  - name:       Yahoo Y
-    id:         yahoo-y
+  - name:       Yahoo Alt
+    id:         yahoo-alt
     unicode:    f02e
     created:    1.0
     categories:
@@ -365,8 +365,8 @@ icons:
     categories:
       - Brand Icons
 
-  - name:       Google g
-    id:         google-g
+  - name:       Google Alt
+    id:         google-alt
     unicode:    f031
     created:    1.0
     categories:
@@ -379,8 +379,8 @@ icons:
     categories:
       - Brand Icons
 
-  - name:       StumbleUpon su
-    id:         stumbleupon-su
+  - name:       StumbleUpon Alt
+    id:         stumbleupon-alt
     unicode:    f033
     created:    1.0
     categories:
@@ -442,8 +442,8 @@ icons:
     categories:
       - Brand Icons
 
-  - name:       Steam Arm
-    id:         steam-arm
+  - name:       Steam Alt
+    id:         steam-alt
     unicode:    f03c
     created:    1.0
     categories:
@@ -522,8 +522,8 @@ icons:
     categories:
       - Brand Icons
 
-  - name:       Hacker News Y
-    id:         hackernews-y
+  - name:       Hacker News Alt
+    id:         hackernews-alt
     unicode:    f048
     created:    1.0
     categories:
@@ -653,8 +653,8 @@ icons:
     categories:
       - Brand Icons
 
-  - name:       meanpath mp
-    id:         meanpath-mp
+  - name:       meanpath Alt
+    id:         meanpath-alt
     unicode:    f05a
     created:    1.0
     url:        meanpath.com
@@ -694,8 +694,8 @@ icons:
     categories:
       - Brand Icons
 
-  - name:       BuySellAds A
-    id:         buysellads-a
+  - name:       BuySellAds Alt
+    id:         buysellads-alt
     unicode:    f062
     created:    1.0
     url:        buysellads.com
@@ -790,8 +790,8 @@ icons:
     categories:
       - Brand Icons
 
-  - name:       Queue App Q
-    id:         queue-q
+  - name:       Queue App Alt
+    id:         queue-alt
     unicode:    f06e
     created:    1.0
     url:        queueapp.com

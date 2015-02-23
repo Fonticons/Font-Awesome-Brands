@@ -171,7 +171,7 @@
 .fa-facebook:before {
   content: "\f000";
 }
-.fa-facebook-f:before {
+.fa-facebook-alt:before {
   content: "\f001";
 }
 .fa-twitter:before {
@@ -180,7 +180,7 @@
 .fa-linkedin:before {
   content: "\f003";
 }
-.fa-linkedin-in:before {
+.fa-linkedin-alt:before {
   content: "\f004";
 }
 .fa-instagram:before {
@@ -189,31 +189,31 @@
 .fa-github:before {
   content: "\f006";
 }
-.fa-github-octocat:before {
+.fa-github-alt:before {
   content: "\f007";
 }
 .fa-googleplus:before {
   content: "\f008";
 }
-.fa-googleplus-g:before {
+.fa-googleplus-alt:before {
   content: "\f009";
 }
 .fa-pinterest:before {
   content: "\f00a";
 }
-.fa-pinterest-p:before {
+.fa-pinterest-alt:before {
   content: "\f00b";
 }
 .fa-tumblr:before {
   content: "\f00c";
 }
-.fa-tumblr-t:before {
+.fa-tumblr-alt:before {
   content: "\f00d";
 }
 .fa-bitcoin:before {
   content: "\f010";
 }
-.fa-bitcoin-b:before {
+.fa-bitcoin-alt:before {
   content: "\f011";
 }
 .fa-dropbox:before {
@@ -228,7 +228,7 @@
 .fa-flickr:before {
   content: "\f015";
 }
-.fa-flickr-dots:before {
+.fa-flickr-alt:before {
   content: "\f016";
 }
 .fa-bitbucket:before {
@@ -277,7 +277,7 @@
 .fa-vimeo:before {
   content: "\f027";
 }
-.fa-vimeo-v:before {
+.fa-vimeo-alt:before {
   content: "\f028";
 }
 .fa-slack:before {
@@ -295,7 +295,7 @@
 .fa-yahoo:before {
   content: "\f02d";
 }
-.fa-yahoo-y:before {
+.fa-yahoo-alt:before {
   content: "\f02e";
 }
 .fa-reddit:before {
@@ -304,13 +304,13 @@
 .fa-google:before {
   content: "\f030";
 }
-.fa-google-g:before {
+.fa-google-alt:before {
   content: "\f031";
 }
 .fa-stumbleupon:before {
   content: "\f032";
 }
-.fa-stumbleupon-su:before {
+.fa-stumbleupon-alt:before {
   content: "\f033";
 }
 .fa-delicious:before {
@@ -337,7 +337,7 @@
 .fa-steam:before {
   content: "\f03b";
 }
-.fa-steam-arm:before {
+.fa-steam-alt:before {
   content: "\f03c";
 }
 .fa-spotify:before {
@@ -370,7 +370,7 @@
 .fa-hackernews:before {
   content: "\f047";
 }
-.fa-hackernews-y:before {
+.fa-hackernews-alt:before {
   content: "\f048";
 }
 .fa-slideshare:before {
@@ -421,7 +421,7 @@
 .fa-meanpath:before {
   content: "\f059";
 }
-.fa-meanpath-mp:before {
+.fa-meanpath-alt:before {
   content: "\f05a";
 }
 .fa-pagelines:before {
@@ -433,7 +433,7 @@
 .fa-buysellads:before {
   content: "\f061";
 }
-.fa-buysellads-a:before {
+.fa-buysellads-alt:before {
   content: "\f062";
 }
 .fa-connectdevelop:before {
@@ -469,7 +469,7 @@
 .fa-queue:before {
   content: "\f06d";
 }
-.fa-queue-q:before {
+.fa-queue-alt:before {
   content: "\f06e";
 }
 .fa-fonticons:before {
